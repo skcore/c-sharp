@@ -1,4 +1,4 @@
-﻿It separates the construction of a complex object from its representation so that you can use the same 
+﻿Builder Pattern - It separates the construction of a complex object from its representation so that you can use the same 
 construction process to create different representations of an object.
 
 Builder:

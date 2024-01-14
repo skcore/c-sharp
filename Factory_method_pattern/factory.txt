@@ -1,4 +1,4 @@
-﻿In Factory pattern, we create the object without exposing the creation logic. In this pattern, an interface is used for creating an object,
+﻿Factory method pattern - In Factory pattern, we create the object without exposing the creation logic. In this pattern, an interface is used for creating an object,
 but let subclass decide which class to instantiate
 
 Product: This is the interface or abstract class defining the product the factory method will create.This is an interface for creating the objects.
