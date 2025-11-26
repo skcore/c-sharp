@@ -2,6 +2,10 @@
 ## Creational
 ### Factory method design pattern
 
+🔗 **Blog / Details:** https://gtcore.in/category/interview-questions/c-sharp/
+
+
+
 In Factory pattern, we create the object without exposing the creation logic. In this pattern, an interface is used for creating an object,
 but let subclass decide which class to instantiate
 
